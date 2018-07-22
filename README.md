@@ -224,3 +224,4 @@ sudo docker rename master slave
 
 Any comments are welcome！
 
+![欢迎关注太初区块链！](https://upload-images.jianshu.io/upload_images/12166860-1529bb51dccc8aa7.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/258)
